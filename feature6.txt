@@ -1,2 +1,2 @@
 Some text.
-There is a problem on this line.
+This problem was corrected.
