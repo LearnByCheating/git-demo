@@ -1,2 +1,2 @@
 Some text.
-This is a bug.
+This bug has been patched.
