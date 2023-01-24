@@ -1,0 +1,2 @@
+Some text.
+This is a bug.
