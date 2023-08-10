@@ -1,2 +1,11 @@
 .DS_Store
 ignoreme.txt
+.env
+docs/notes.md
+docs/v1-beginning-git.md
+docs/v2-intermediate-git.md
+docs/v3-beginning-github.md
+docs/v4-intermediate-github.md
+images/cheatsheet-icon.png
+images/youtube-logo.png
+images/github-mark.svg
